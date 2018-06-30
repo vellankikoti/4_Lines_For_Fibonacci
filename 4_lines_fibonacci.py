@@ -1,4 +1,4 @@
-#Fibonacci Sequence in $ Lines
+#Fibonacci Sequence in 4 Lines
 
 # Defining variables and assigning values to them
 a,b = 0,1
