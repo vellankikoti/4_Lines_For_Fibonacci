@@ -1,6 +1,5 @@
 #Specifying the Range for Fibonacci Sequence
 num = int(input('Enter the Range you want to get Fibonacci :'))
-# Defining variables and assigning values to them
 #Defining Function Fibonacci as fibo()
 def fibo():
 	#Initializing the values
