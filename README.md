@@ -1,2 +1,2 @@
-# 4_Lines_For_Fibonacci
+# Fibonacci Sequence
 Sample Python Program for Fibonacci Sequence in 4 Lines
