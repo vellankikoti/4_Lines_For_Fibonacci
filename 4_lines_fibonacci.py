@@ -1,10 +1,15 @@
-#Fibonacci Sequence in 4 Lines
-
+#Specifying the Range for Fibonacci Sequence
+num = int(input('Enter the Range you want to get Fibonacci :'))
 # Defining variables and assigning values to them
-a,b = 0,1
+#Defining Function Fibonacci as fibo()
+def fibo():
+	#Initializing the values
+	a,b = 0,1
 # Specifying limit for Fibonacci Sequence
-while(b<50):
+	while(a<num):
 	#print the values
-	print(a)
+		print(a)
 	#Swapping the values
-	a,b = b,a+b	
+		a,b = b,a+b	
+#Calling the function fibo()
+fibo()
